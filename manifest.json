@@ -6,8 +6,8 @@
   "api": 2,
   "entry": "main.lua",
   "profile": "content",
-  "summary": "Shows the actual Pokémon while Surfing or using Fly. Uses Wilds of Kanto and/or PokePC Followers walker sheets. Independent Surf/Fly toggles.",
-  "description": "Shows the actual Pokémon while Surfing or using Fly. Uses Wilds of Kanto and/or PokePC Followers walker sheets. Independent Surf/Fly toggles.",
+  "summary": "Shows the actual Pokémon while Surfing or using Fly. Uses Wilds of Kanto and/or PokePC Followers sprite sheets. Independent Surf/Fly toggles.",
+  "description": "Shows the actual Pokémon while Surfing or using Fly. Uses Wilds of Kanto and/or PokePC Followers sprite sheets. Independent Surf/Fly toggles.",
   "categories": ["UI", "QOL"],
   "tags": ["qol", "sprites", "surf", "fly", "wilds", "pokepc"],
   "optional_dependencies": [
