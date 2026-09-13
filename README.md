@@ -14,9 +14,9 @@ Works on Red / Blue / Yellow. (Gen 2 Support Soon?)
 
 ## Options
 
-- SURF SPRITES — on/off
-- FLY SPRITES — on/off
-- SPRITE SOURCE — Auto/Specific (Prioritizes Wilds first, then PokePC), or you can specify which one you want.
+- SURF SPRITES — On/Off
+- FLY SPRITES — On/Off
+- SPRITE SOURCE — Auto/Specific (prioritizes Wilds first, then PokePC), or you can specify which one you want.
 
 ## Install
 
