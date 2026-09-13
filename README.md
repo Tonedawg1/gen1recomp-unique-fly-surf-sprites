@@ -1,6 +1,6 @@
 # Unique Fly/Surf Sprites
 
-This mod shows the actual Pokémon while Surfing or using normal HM Fly in Gen1Recomp, instead of the default surf sprite / generic bird.
+This mod shows the actual Pokémon while using the HM Surf or Fly in Gen1Recomp, instead of the default surf sprite / generic bird.
 It pulls overworld walker sheets from Wilds of Kanto when available, or PokePC Followers sheets.
 Independent toggles for Surf and Fly. Full disclosure this was made with the help of AI.
 
