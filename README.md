@@ -7,7 +7,7 @@ Full disclosure this was made with the help of AI.
 
 ## Important Note
 **You NEED either Wilds of Kanto and/or PokePC Followers mod for this mod to do anything.**
-It's taking the new sprites from they're respective packs.
+It's taking the new sprites from their respective packs.
 Without either mod, the game keeps vanilla Surf/Fly sprites.
 
 Works on Red / Blue / Yellow. (Gen 2 Support Soon?)
