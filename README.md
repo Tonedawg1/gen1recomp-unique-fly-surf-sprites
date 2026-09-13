@@ -12,11 +12,11 @@ Without either mod, the game keeps vanilla Surf/Fly sprites.
 
 Works on Red / Blue / Yellow. (Gen 2 Support Soon?)
 
-## Options
+## Mod Options
 
 - SURF SPRITES — On/Off
 - FLY SPRITES — On/Off
-- SPRITE SOURCE — Auto/Specific (prioritizes Wilds first, then PokePC), or you can specify which one you want.
+- SPRITE SOURCE — Auto/Specific (prioritizes Wilds first, then PokePC)
 
 ## Install
 
