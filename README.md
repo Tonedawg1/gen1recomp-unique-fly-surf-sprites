@@ -6,7 +6,7 @@ It also has independent toggles for Surf and Fly if you prefer the default sprit
 Full disclosure this was made with the help of AI.
 
 ## Important Note
-You NEED either Wilds of Kanto and/or PokePC Followers mod for this mod to do anything.
+**You NEED either Wilds of Kanto and/or PokePC Followers mod for this mod to do anything.**
 It's taking the new sprites from they're respective packs.
 Without either mod, the game keeps vanilla Surf/Fly sprites.
 
