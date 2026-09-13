@@ -5,6 +5,8 @@ It pulls overworld walker sheets from the Wilds of Kanto, or PokePC Followers mo
 It also has independent toggles for Surf and Fly if you prefer the default sprite for one or the other. 
 Full disclosure this was made with the help of AI.
 
+Example Image: https://imgur.com/a/gen1recomp-surf-fly-example-sKBiY9I
+
 ## Important Note
 **You NEED either Wilds of Kanto and/or PokePC Followers mod for this mod to do anything.**
 It's taking the new sprites from their respective packs.
