@@ -1,0 +1,17 @@
+{
+  "id": "unique_fly_surf_sprites",
+  "name": "Unique Fly/Surf Sprites",
+  "version": "1.0.0",
+  "author": "Tonedawg1",
+  "api": 2,
+  "entry": "main.lua",
+  "profile": "content",
+  "summary": "Shows the actual Pokémon while Surfing or using Fly. Uses Wilds of Kanto and/or PokePC Followers walker sheets. Independent Surf/Fly toggles.",
+  "description": "Shows the actual Pokémon while Surfing or using Fly. Uses Wilds of Kanto and/or PokePC Followers walker sheets. Independent Surf/Fly toggles.",
+  "categories": ["UI", "QOL"],
+  "tags": ["qol", "sprites", "surf", "fly", "wilds", "pokepc"],
+  "optional_dependencies": [
+    "overworld_wild_spawns",
+    "PokePCFollowers_VoxelMerge"
+  ]
+}
